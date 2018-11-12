@@ -1,4 +1,3 @@
-
 ´´´
 create table juegos_db (
 	id INT,

@@ -1,5 +1,4 @@
-´´´
-create table juegos_db (
+´´´create table juegos_db (
 	id INT,
 	name VARCHAR(50),
 	creator VARCHAR(50),

@@ -1,5 +1,4 @@
-# juegosdb
-Mi base de datos.
+
 ´´´
 create table juegos_db (
 	id INT,

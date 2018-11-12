@@ -1,4 +1,5 @@
 ´´´
+
 create table juegos_db (
 	id INT,
 	name VARCHAR(50),

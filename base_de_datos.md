@@ -1,5 +1,6 @@
-```
+# PRACTICA 32
 
+```
 create table juegos_db (
 	id INT,
 	name VARCHAR(50),
@@ -1012,7 +1013,7 @@ select * from juegos_db;
 
 ```
 
-# HOJAS GOOGLE SHEETS
+# HOJAS GOOGLE SHEETS PRACTICA 33
 
 ```
 function onOpen(){
